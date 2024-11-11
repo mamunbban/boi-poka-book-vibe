@@ -48,4 +48,4 @@
         }
     }
 
-    export {addToStoreReadList, addToWishList}
+    export {addToStoreReadList, addToWishList,getStoreReadList,getStoreWishList}
